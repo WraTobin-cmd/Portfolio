@@ -3,7 +3,7 @@
 ## About Me
 I am a VR game developer with a strong focus on authentication systems, account generation logic, and secure backend infrastructure for online and VR experiences. I specialize in building reliable, scalable systems with rapid iteration, testing, and deployment.
 
-I enjoy working with APKs, backend services, and multiplayer infrastructure to improve stability, security, and overall user experience.
+I enjoy working with Anti-Cheat, backend services, and multiplayer infrastructure to improve stability, security, and overall user experience.
 
 ---
 
@@ -18,10 +18,11 @@ I enjoy working with APKs, backend services, and multiplayer infrastructure to i
 ---
 
 ### Game Development
-- **GTAG-style Game Development**
-  - APK-based development (3+ years, Top 3 fastest game makers)
+- **VR Game Development**
+  - MonoBehavior-based development (3+ years)
   - PlayFab CloudScript support (2+ years)
-  - Microservices & backend systems (primary strength)
+  - Authentication & Backends (primary strength)
+  - Unity (4+ years)
 
 ---
 
@@ -50,24 +51,24 @@ I enjoy working with APKs, backend services, and multiplayer infrastructure to i
 ## Experience
 
 ### Game Studios Worked With
-- **Zen Tags** — Zenix  
-- **Flash Tag** — Unstabled  
-- **Zero Tag** — Metro  
-- **Opium Tag** — Bt  
-- **Fearing Gorilla** — Th3Snowy  
-- **Unreal Tag** — JRVR  
+- **Zen Tags** — Zenix  (+20k Players)
+- **Flash Tag** — Unstabled  (+20k Players)
+- **Zero Tag** — Metro  (+10k Players)
+- **Opium Tag** — Bt  (+15k Players)
+- **Fearing Gorilla** — Th3Snowy  (30-50k Players)
+- **Unreal Tag** — JRVR  (5-9k Players)
   - Former Warden (2023)
 
-Additional work includes **20+ App Lab games**, with peak activity in **2024**.
+Additional work includes **20+ App Lab games**, with peak activity in **2024**. Being One of most known VR Devs in years
 
 ---
 
 ## Contact
 
 - **Discord:** `tobin_paulsen` / `WraTobin`  
-- **TikTok:** `@deadcompter1`  
+- **TikTok:** `SOON`  
 - **Meta Quest:** `WraTobin`  
 
 ---
 
-*Thank you for taking the time to view my portfolio.*
+*Thank you for taking the time to view my portfolio. :)*
